@@ -115,3 +115,5 @@ def js_n():
 if __name__ == '__main__':
     # app.run(debug=True,port=8010)
     manager.run()
+
+    print("推送")
